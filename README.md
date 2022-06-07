@@ -1,6 +1,6 @@
-## Salve, salve! Eu sou o Mateus Cardoso
+## Olar! Bora Codar 🚀
 
-- 🌱 Hoje estudo Typescript e React 
+- 🌱 Desenvolvo aplicações Web em Spring Boot e React
 - 📫 Meu email para contato: mateus.moraes0507@gmail.com
 - 😄 Pronomes: ele/dele
 
