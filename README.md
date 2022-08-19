@@ -1,15 +1,23 @@
-## Olar! Bora Codar 🚀
+## Salve salve!
 
 - 🌱 Desenvolvo aplicações Web em Spring Boot e React
 - 📫 Meu email para contato: mateus.moraes0507@gmail.com
-- 😄 Pronomes: ele/dele
 
-<div>
+<div align="center">
+  <img height="500em" src="https://preview.redd.it/ba9hhksr38a71.gif?width=1680&auto=webp&s=5ec3296ada9392f7d7c876148c666360a4c1e7af"/>
+</div>
+ 
+  ## 
+  
+<div align="center">
   <a href="https://github.com/mateusCoder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusCoder&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
+
+  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
   <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mateus-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
