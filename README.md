@@ -1,12 +1,14 @@
-## Salve salve!
+## Desenvolvedor Java Jr ⌨️
 
-- 🌱 Desenvolvo aplicações Web em Spring Boot e React
-- 📫 Meu email para contato: mateus.moraes0507@gmail.com
+Olá! Sou desenvolvedor dedicado a aprimorar minhas habilidades de programação e contribuir para projetos inovadores.
+Tenho paixão por resolver problemas complexos e aprender continuamente sobre as melhores práticas de desenvolvimento.
 
-<div align="center">
-  <img height="500em" src="https://preview.redd.it/ba9hhksr38a71.gif?width=1680&auto=webp&s=5ec3296ada9392f7d7c876148c666360a4c1e7af"/>
-</div>
- 
+👨‍💻 Crio aplicações web com Java Sprinboot e React. </br></br>
+🤝 Colaboração em projetos de clientes, incluindo fluxos de marketplace e microservices de telefonia. </br></br>
+🛠️ Conhecimento em tecnologias como RabbitMQ, Grafana e Splunk. </br></br>
+🔄️ Familiaridade em comunicações síncronas usando OpenFeign. </br></br>
+🪴 Comprometido com a aprendizagem contínua e resolução de problemas. </br></br>
+
   ## 
   
 <div align="center">
@@ -14,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusCoder&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center"><br>
 
   <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
@@ -29,14 +31,8 @@
   
   ##
   
-<div> 
+<div align="center"> 
   <a href = "https://twitter.com/mateuSUAVAO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateus.moraes0507@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-cardoso-de-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
-  
-  ![Snake animation](https://github.com/mateusCoder/mateusCoder/blob/output/github-contribution-grid-snake.svg)
- 
-
-
-
